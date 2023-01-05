@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Arch_Project
+vapb_bridge
+Z1 ILfn?cH6>M?iAD_]j5WafO2
+Z2 VV9e`WkYoMFj;SX5F27;Bd0
+Z3 dD:\Arch_Project
+Z4 w1672879645
+Z5 FAPB_Master.v
+Z6 8D:\Arch_Project\APB_Protcol.v
+Z7 FD:\Arch_Project\APB_Protcol.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1672879896.260000
+Z10 !s107 APB_Slave.v|APB_Master.v|D:\Arch_Project\APB_Protcol.v|
+Z11 !s90 -reportprogress|300|-work|work|D:\Arch_Project\APB_Protcol.v|
+Z12 o-work work -O0
+Z13 !s100 T>h_<nIfO41m:hdO>::Km0
+!i10b 1
+!s85 0
+!s101 -O0
+vAPB_Protocol
+Z14 !s100 Di7f@6M8_kP<NF2I2T0<=3
+Z15 I30L[ThR^HQf4cgaF@a<e[1
+Z16 VII00Pgh9[6Zf;[i_Q[g;R2
+R3
+R4
+R6
+R7
+L0 7
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z17 n@a@p@b_@protocol
+!i10b 1
+!s85 0
+!s101 -O0
+vslave
+Z18 I`EhFdC?K][9nS6OiKCiNl3
+Z19 Vg7lKEjmPe3YNcVfm2lPY:3
+R3
+Z20 w1672872920
+Z21 8D:\Arch_Project\APB_Slave.v
+Z22 FD:\Arch_Project\APB_Slave.v
+L0 3
+R8
+r1
+31
+R12
+Z23 !s100 hazm_a;R5jRJg04omT4J?1
+Z24 !s108 1672879896.314000
+Z25 !s107 D:\Arch_Project\APB_Slave.v|
+Z26 !s90 -reportprogress|300|-work|work|D:\Arch_Project\APB_Slave.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest
+!i10b 1
+!s100 FT?YLB9Um:>o6Aj0HPk>83
+I^f=X2@K0[ZPT0gYn7o=]F3
+Z27 Vk<3<[f=78GX=_HO53D;7>3
+R3
+w1672919068
+Z28 8D:\Arch_Project\APB_tb.v
+Z29 FD:\Arch_Project\APB_tb.v
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1672919068.464000
+!s107 D:\Arch_Project\APB_tb.v|
+Z30 !s90 -reportprogress|300|-work|work|D:\Arch_Project\APB_tb.v|
+!s101 -O0
+R12

@@ -1,0 +1,31 @@
+D:/Arch_Project/APB_tb.v {1 {vlog -work work {D:\Arch_Project\APB_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} D:/Arch_Project/APB_Slave.v {1 {vlog -work work {D:\Arch_Project\APB_Slave.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module slave
+
+Top level modules:
+	slave
+
+} {} {}} D:/Arch_Project/APB_Protcol.v {1 {vlog -work work {D:\Arch_Project\APB_Protcol.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module apb_bridge
+-- Compiling module slave
+-- Compiling module APB_Protocol
+
+Top level modules:
+	APB_Protocol
+
+} {} {}} D:/Arch_Project/APB_Master.v {1 {vlog -work work {D:\Arch_Project\APB_Master.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module apb_bridge
+
+Top level modules:
+	apb_bridge
+
+} {} {}}
