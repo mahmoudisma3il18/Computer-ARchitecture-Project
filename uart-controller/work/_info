@@ -1,0 +1,241 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vbaud_rate_generator
+Z0 !s110 1672950692
+!i10b 1
+!s100 L9>X<n^6ImDk1X6^T>S5z2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IlHl4eSX>KMm;A3hQh0`cU3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller
+Z4 w1672947286
+Z5 8D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/uart_controller.v
+Z6 FD:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/uart_controller.v
+!i122 14
+L0 1 31
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1672950692.000000
+Z9 !s107 D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/uart_controller.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/uart_controller.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vbaud_rate_generator_tb
+!s110 1672952167
+!i10b 1
+!s100 [<aXmeNzzJ<X?_2RL1iN@0
+R1
+IhR<3oESYj]z`:o7>GokbY2
+R2
+R3
+w1672952157
+8D:\Gam3a\Koliaa\4th Electrical (Computer) - Last Year ISA\Computer Architecture\Project\uart-controller\Baudrategenerator_tb.v
+FD:\Gam3a\Koliaa\4th Electrical (Computer) - Last Year ISA\Computer Architecture\Project\uart-controller\Baudrategenerator_tb.v
+!i122 21
+L0 6 37
+R7
+r1
+!s85 0
+31
+!s108 1672952166.000000
+!s107 D:\Gam3a\Koliaa\4th Electrical (Computer) - Last Year ISA\Computer Architecture\Project\uart-controller\Baudrategenerator_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Gam3a\Koliaa\4th Electrical (Computer) - Last Year ISA\Computer Architecture\Project\uart-controller\Baudrategenerator_tb.v|
+!i113 1
+R11
+R12
+voversampling_clock_generator
+R0
+!i10b 1
+!s100 jPCW<Bd5ghjeVPz;Pb78R2
+R1
+IbI3D6BeTS[fc7=d^Qhn@d2
+R2
+R3
+R4
+R5
+R6
+!i122 14
+L0 34 38
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+voversampling_clock_generator_tb
+R0
+!i10b 1
+!s100 I`<gWFR8O>AHcm;Z9>3jQ1
+R1
+IB2M0;nF3OA=Q2V?]Ogz3A2
+R2
+R3
+w1672950138
+8D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Oversampling_tb.v
+FD:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Oversampling_tb.v
+!i122 16
+L0 6 46
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Oversampling_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Oversampling_tb.v|
+!i113 1
+R11
+R12
+vreceiver
+R0
+!i10b 1
+!s100 [>d;o8afTQPZEBHmIghD<2
+R1
+IEZm?<IFU2aB9i3HdM8QMJ3
+R2
+R3
+R4
+R5
+R6
+!i122 14
+L0 120 47
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vreceiver_tb
+R0
+!i10b 1
+!s100 ziJ=jK1TA5NFfgzgBGnod0
+R1
+ILLA`>C2eNZU<[hV_0chHi2
+R2
+R3
+w1672933916
+8D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Receiver_tb.v
+FD:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Receiver_tb.v
+!i122 17
+L0 1 45
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Receiver_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Receiver_tb.v|
+!i113 1
+R11
+R12
+vslave
+R0
+!i10b 1
+!s100 IJO4maHORcB?fPg?HLi9M1
+R1
+Iig9fZ0dWIRzLCTWaj3D:E3
+R2
+R3
+R4
+R5
+R6
+!i122 14
+L0 170 51
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtransmitter
+R0
+!i10b 1
+!s100 zg?ZkcD`IW7aS;eTdii6h1
+R1
+Il4m8d;_3F]b3HDZD_S8bF0
+R2
+R3
+R4
+R5
+R6
+!i122 14
+L0 73 46
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtransmitter_tb
+R0
+!i10b 1
+!s100 <UlL?WjQ97[gg[Zdeb^;n0
+R1
+I9g0F>PiEBJn>1jFZMe>a^1
+R2
+R3
+w1672950142
+8D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Transmitter_tb.v
+FD:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Transmitter_tb.v
+!i122 18
+L0 1 55
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Transmitter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Gam3a/Koliaa/4th Electrical (Computer) - Last Year ISA/Computer Architecture/Project/uart-controller/Transmitter_tb.v|
+!i113 1
+R11
+R12
+vuart_controller
+R0
+!i10b 1
+!s100 GIFSHU_:1k_F`20[>ooPz2
+R1
+I=WfX?A4hW>]YoiHMCa^kV3
+R2
+R3
+R4
+R5
+R6
+!i122 14
+L0 224 85
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12

@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Arch_Project
+vapb_gpio
+!i10b 1
+!s100 N?Z1:Lem]a<jlZZkmnbKN0
+I_iMVIQKD6clnFjUH5ElQ21
+Z1 VH4lFCl4e;>b5P3g[0F9in3
+Z2 dD:\Try
+Z3 w1672951772
+FGPIO.v
+Z4 8D:/Try/GPIO_tb.v
+Z5 FD:/Try/GPIO_tb.v
+L0 1
+Z6 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z7 !s108 1672951772.426000
+Z8 !s107 GPIO.v|D:/Try/GPIO_tb.v|
+Z9 !s90 -reportprogress|300|-work|work|D:/Try/GPIO_tb.v|
+!s101 -O0
+Z10 o-work work -O0
+vGPIO
+Z11 IdG5?H7fck]PD?70Bk@Mdi1
+Z12 VifcHD2SKZg@T>oTnT<[ND2
+R2
+Z13 w1672946369
+Z14 8D:\Try\GPIO.v
+Z15 FD:\Try\GPIO.v
+L0 1
+R6
+r1
+31
+Z16 !s90 -reportprogress|300|-work|work|D:\Try\GPIO.v|
+R10
+Z17 n@g@p@i@o
+Z18 !s100 anh41h1h@@ab[D0>oz@Ri0
+Z19 !s108 1672946369.899000
+Z20 !s107 D:\Try\GPIO.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTEST
+!i10b 1
+Z21 !s100 JbAXUoM83`oekDC@cXQd^2
+Z22 IIG?jBBm20HN3X4mM=^66H1
+Z23 VbIW=:K5z]3n<z[T1F6BzC2
+R2
+Z24 w1672948526
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+R10
+Z25 n@t@e@s@t

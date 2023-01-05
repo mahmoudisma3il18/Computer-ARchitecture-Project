@@ -1,0 +1,126 @@
+# Compile of Transmitter_tb.v was successful.
+# Compile of uart_controller.v was successful.
+# Compile of Baudrategenerator_tb.v was successful.
+# Compile of Oversampling_tb.v was successful.
+# Compile of Receiver_tb.v was successful.
+# Compile of Transmitter_tb.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.baud_rate_generator_tb
+# vsim -gui work.baud_rate_generator_tb 
+# Start time: 22:31:42 on Jan 05,2023
+# Loading work.baud_rate_generator_tb
+# Loading work.baud_rate_generator
+add wave -position insertpoint sim:/baud_rate_generator_tb/*
+run
+# baud_rate=   5000000 baud_clk=x
+# baud_rate=   5000000 baud_clk=0
+run
+# baud_rate=   1000000 baud_clk=0
+run
+run
+run
+run
+quit -sim
+# End time: 22:32:57 on Jan 05,2023, Elapsed time: 0:01:15
+# Errors: 0, Warnings: 3
+vsim -gui work.transmitter_tb
+# vsim -gui work.transmitter_tb 
+# Start time: 22:33:08 on Jan 05,2023
+# Loading work.transmitter_tb
+# Loading work.transmitter
+add wave -position insertpoint sim:/transmitter_tb/*
+run
+# tx_data= 18 tx_en=1 txd=x tx_busy=x
+# tx_data= 18 tx_en=1 txd=x tx_busy=0
+# tx_data= 18 tx_en=1 txd=0 tx_busy=1
+# tx_data= 18 tx_en=1 txd=1 tx_busy=1
+# tx_data= 18 tx_en=1 txd=0 tx_busy=1
+# tx_data= 18 tx_en=1 txd=1 tx_busy=1
+# tx_data= 18 tx_en=1 txd=0 tx_busy=1
+run
+# tx_data= 52 tx_en=1 txd=0 tx_busy=1
+# tx_data= 52 tx_en=1 txd=0 tx_busy=0
+# tx_data= 52 tx_en=1 txd=0 tx_busy=1
+# tx_data= 52 tx_en=1 txd=1 tx_busy=1
+# tx_data= 52 tx_en=1 txd=0 tx_busy=1
+# tx_data= 52 tx_en=1 txd=1 tx_busy=1
+# tx_data= 52 tx_en=1 txd=0 tx_busy=1
+# tx_data= 52 tx_en=1 txd=0 tx_busy=0
+# tx_data= 52 tx_en=1 txd=0 tx_busy=1
+run
+# tx_data=135 tx_en=1 txd=0 tx_busy=1
+# tx_data=135 tx_en=1 txd=1 tx_busy=1
+# tx_data=135 tx_en=1 txd=0 tx_busy=1
+# tx_data=135 tx_en=1 txd=1 tx_busy=1
+# tx_data=135 tx_en=0 txd=1 tx_busy=1
+# tx_data=135 tx_en=0 txd=0 tx_busy=1
+# tx_data=135 tx_en=0 txd=0 tx_busy=0
+run
+run
+run
+run
+run
+quit -sim
+# End time: 22:39:17 on Jan 05,2023, Elapsed time: 0:06:09
+# Errors: 0, Warnings: 1
+vsim -gui work.baud_rate_generator_tb
+# vsim -gui work.baud_rate_generator_tb 
+# Start time: 22:39:29 on Jan 05,2023
+# Loading work.baud_rate_generator_tb
+# Loading work.baud_rate_generator
+add wave -position insertpoint sim:/baud_rate_generator_tb/*
+run
+# baud_rate=   5000000 baud_clk=x
+# baud_rate=   5000000 baud_clk=0
+run
+# baud_rate=   1000000 baud_clk=0
+# Compile of Baudrategenerator_tb.v was successful.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.baud_rate_generator_tb
+add wave -position insertpoint sim:/baud_rate_generator_tb/*
+run
+# baud_rate=        20 baud_clk=x
+# baud_rate=        20 baud_clk=0
+run
+# baud_rate=        10 baud_clk=0
+quit -sim
+# End time: 22:44:21 on Jan 05,2023, Elapsed time: 0:04:52
+# Errors: 0, Warnings: 1
+# Compile of Baudrategenerator_tb.v failed with 1 errors.
+# Compile of Baudrategenerator_tb.v was successful.
+vsim -gui work.baud_rate_generator_tb
+# vsim -gui work.baud_rate_generator_tb 
+# Start time: 22:53:57 on Jan 05,2023
+# Loading work.baud_rate_generator_tb
+# Loading work.baud_rate_generator
+add wave -position insertpoint sim:/baud_rate_generator_tb/*
+run
+# baud_rate=         2 baud_clk=x
+# baud_rate=         2 baud_clk=0
+run
+# baud_rate=         3 baud_clk=0
+run
+run
+run
+run
+run
+quit -sim
+# End time: 22:56:02 on Jan 05,2023, Elapsed time: 0:02:05
+# Errors: 0, Warnings: 3
+# Compile of Baudrategenerator_tb.v was successful.
+vsim -gui work.baud_rate_generator_tb
+# vsim -gui work.baud_rate_generator_tb 
+# Start time: 22:56:13 on Jan 05,2023
+# Loading work.baud_rate_generator_tb
+# Loading work.baud_rate_generator
+add wave -position insertpoint sim:/baud_rate_generator_tb/*
+run
+# baud_rate=   5000000 baud_clk=x
+# baud_rate=   5000000 baud_clk=0
+run
+# baud_rate=   1000000 baud_clk=0
+run
+run
+# End time: 22:58:57 on Jan 05,2023, Elapsed time: 0:02:44
+# Errors: 0, Warnings: 2

@@ -1,0 +1,16 @@
+D:/Try/GPIO.v {1 {vlog -work work {D:\Try\GPIO.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module apb_gpio
+
+Top level modules:
+	apb_gpio
+
+} {} {}} D:/Try/GPIO_tb.v {1 {vlog -work work D:/Try/GPIO_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module apb_gpio
+-- Compiling module TEST
+
+Top level modules:
+	TEST
+
+} {} {}}
